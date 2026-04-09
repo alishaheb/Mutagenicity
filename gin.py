@@ -249,6 +249,7 @@ axes[0].legend()
 axes[0].grid(True, alpha=0.3)
 
 # (b) Per-fold accuracy comparison
+
 x = np.arange(NUM_FOLDS)
 w = 0.35
 axes[1].bar(x - w/2, results["GCN"]["accs"], w, label="GCN", color="#4C72B0")
