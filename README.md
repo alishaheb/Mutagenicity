@@ -105,7 +105,7 @@ The script generates three visualisations:
 - **Training loss curves** (averaged across folds)
 - **Per-fold accuracy** (grouped bar chart)
 - **Accuracy distribution** (box plot)
-![Alt text](
+![Loss Curve](loss%20curve.png)
 ## References
 
 - Kipf, T. N. & Welling, M. (2017). *Semi-Supervised Classification with Graph Convolutional Networks.* ICLR.
