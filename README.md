@@ -38,6 +38,19 @@ git clone https://github.com/<your-username>/mutagenicity-gnn.git
 cd mutagenicity-gnn
 pip install -r requirements.txt
 ```
+## Hardware & Training Environment
+
+* **Platform:** Kaggle Notebooks
+* **GPU:** NVIDIA Tesla T4 (16GB VRAM)
+* **CUDA:** Enabled
+* **Frameworks:** PyTorch, PyTorch Geometric
+
+**Notes:**
+
+* All models were trained using GPU acceleration.
+* Results are reproducible on CPU, but training time will be significantly longer.
+* No model-specific GPU optimisations were applied.
+
 
 ### Requirements
 
