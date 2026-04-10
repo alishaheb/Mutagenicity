@@ -118,7 +118,7 @@ The script generates three visualisations:
 - **Training loss curves** (averaged across folds)
 - **Per-fold accuracy** (grouped bar chart)
 - **Accuracy distribution** (box plot)
-![Loss Curve](loss%20curve.png)
+![Loss Curve](Plot_mutagenesis_results.png)
 ## References
 
 - Kipf, T. N. & Welling, M. (2017). *Semi-Supervised Classification with Graph Convolutional Networks.* ICLR.
